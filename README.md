@@ -18,5 +18,10 @@
 16.created a new branch and switched to that branch (git checkout -b main1)
 17.created a file(touch c.txt)
 18.Added and commited 
+18.git checkout master
+19.Commited again
+20.git checkout main1
+21.git rebase master
+
 
 
