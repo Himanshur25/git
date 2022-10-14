@@ -38,6 +38,18 @@
 23. To restore the changes `git stash`
 24. To check the changes made  ` git stash pop `
 25. `git stash list`
+26. one more commit on a.txt
+ `git add . `
+ `git commit -m "Commit message"`
+ 27. `git checkout main`
+ 28. one more commit on b.txt
+  `git add . `
+ `git commit -m "Commit message"`
+ 29. Taking the commit id using `git log`
+ 30. `git checkout master`
+ 31. `git cherry-pick commit-id`
+ 32. `git checkout master`
+ 33. `git log`
 
 
 
