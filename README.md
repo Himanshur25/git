@@ -14,7 +14,10 @@
 7. merge main commit with master commit
 `git merge main`
 8. `git log`
-
+9. Created one more commit 
+`git add . `
+ `git commit -m "Commit message"`
+ 10. `git checkout master`
 
 
 
