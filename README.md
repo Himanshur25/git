@@ -34,6 +34,10 @@
 19. Commited again
 20. `git checkout main1`
 21. `git rebase master`
+22. updated text file
+23. To restore the changes `git stash`
+24. To check the changes made  ` git stash pop `
+25. `git stash list`
 
 
 
