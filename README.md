@@ -52,6 +52,10 @@
  31. `git cherry-pick commit-id`
  32. `git checkout master`
  33. `git log`
+ 34. created multiple stash in a single branch(main) using
+   `git stash`
+ 35. to pop up a particular stash 
+ `git stash apply stash@{1}`
 
 
 
